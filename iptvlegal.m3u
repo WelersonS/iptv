@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#PLAYLIST:TV
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="Canais | Premiere",PREMIERE 2 HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/745.m3u8
+######## TESTE ##########
